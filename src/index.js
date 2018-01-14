@@ -15,4 +15,4 @@ render(
     <p/>
     <Lane>laaaahh</Lane>
   </div>
-  , document.getElementById('container'));
+  , document.getElementById('root'));

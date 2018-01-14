@@ -13,6 +13,6 @@ render(
     </Card>
     <Button type="primary">but</Button>
     <p/>
-    <Lane>laaaa</Lane>
+    <Lane>laaaahh</Lane>
   </div>
   , document.getElementById('container'));
